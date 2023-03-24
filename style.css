@@ -1,0 +1,11 @@
+#game-board {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    position: relative;
+  }
+  #canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
