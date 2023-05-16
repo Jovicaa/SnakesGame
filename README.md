@@ -1,3 +1,7 @@
+# Sneki the snake
+
+Important note:  Desktop only
+
 Snake Game
 This is a classic Snake game implementation using HTML5 canvas and JavaScript. The player controls a snake that moves around the game board, eating randomly generated food to grow longer. The game ends if the snake collides with the walls or its own body.
 
